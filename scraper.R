@@ -1,3 +1,5 @@
+# this is the base model of the scraping function inside of the main working file
+
 ####################
 library(rvest)
 library(purrr)
