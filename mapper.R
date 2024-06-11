@@ -1,3 +1,7 @@
+# this is an attempt of extracting the geographical informations of a place starting froma  name, but for now it hasnt been succesfull due to some complications,
+# it's in standby for now
+
+
 ####################
 library(rvest)
 library(purrr)
