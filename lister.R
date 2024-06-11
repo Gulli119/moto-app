@@ -1,3 +1,6 @@
+# this file contains a function to list all the possible motorcycles brands and models gathering the data from a website, basically it scrapes off all of that from
+# a website that contais it and gives off a dataset 
+
 ####################
 library(rvest)
 library(purrr)
